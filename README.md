@@ -21,14 +21,6 @@ This project demonstrates the use of **Random Forest Regression** along with **G
 - RandomForestRegressor
 - GridSearchCV
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/Karan-Baid/House-price-prediction-.git
-cd rf-mlflow-regression
-pip install -r requirements.txt
-
-
 ## 🧠 Workflow
 
     Load and split the dataset into features and target.
@@ -57,3 +49,13 @@ pip install -r requirements.txt
     Evaluation Metric:
 
         Mean Squared Error (MSE)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Karan-Baid/House-price-prediction-.git
+cd rf-mlflow-regression
+pip install -r requirements.txt
+
+
+
