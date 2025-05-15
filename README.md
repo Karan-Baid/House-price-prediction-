@@ -24,11 +24,12 @@ This project demonstrates the use of **Random Forest Regression** along with **G
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/rf-mlflow-regression.git
+git clone https://github.com/Karan-Baid/House-price-prediction-.git
 cd rf-mlflow-regression
 pip install -r requirements.txt
 
-🧠 Workflow
+
+## 🧠 Workflow
 
     Load and split the dataset into features and target.
 
@@ -40,7 +41,8 @@ pip install -r requirements.txt
 
     Register the model or save with infer_signature.
 
-📈 Example Metrics Logged
+
+## 📈 Example Metrics Logged
 
     Best Hyperparameters:
 
